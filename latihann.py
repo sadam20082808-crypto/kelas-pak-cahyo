@@ -1,6 +1,4 @@
-alas = 20
-tinggi = 4
-luas =0.5 * alas * tinggi
-
-print("luas segitiga=", luas
-    
+for i in range(0,9):
+    for j in range(0,i+41):
+        print("hack",end="")
+    print()
